@@ -340,6 +340,15 @@ The network should support social interaction and a recognizable shared identity
 
 ---
 
+## 4.3 Global ranks and titles
+
+- **Ranks are global across Ionuț REAL Gaming Network**, not separate for each game mode or server.
+- **Titles are also global** and can be used across the network.
+- A rank earned through a game mode, such as the permanent G.O.A.T. rank awarded through BedWars season competition, applies across the network.
+
+---
+
+
 # 5. Survival Events
 
 The current planned launch order for the three special Survival events is:
@@ -402,7 +411,146 @@ No other event mechanics have been confirmed yet.
 
 ---
 
-# 6. Relaunch and update approach
+# 6. BedWars
+
+BedWars is planned as a dedicated competitive minigame on Ionuț REAL Gaming Network, with both Unranked and Ranked play.
+
+## 6.1 Game modes
+
+Planned game modes:
+- Solo.
+- Duo.
+- Trio.
+- Squad.
+- 1v1.
+- 2v2.
+- 3v3.
+- 4v4.
+- **100v100**.
+- Special BedWars Events.
+
+### 100v100
+
+100v100 follows the general BedWars format, but with 100 players total in a match. The maximum is **100 players per match**; 200-player matches are not intended.
+
+## 6.2 Maps
+
+The current map plan is:
+- **20 cloned maps** intended for the standard BedWars categories.
+- **5 maps** for 100v100.
+- At least **2 maps** made personally by the network owner.
+- At least **1 map for 100v100** made personally by the network owner.
+
+The exact map-to-mode distribution has not yet been specified.
+
+## 6.3 Unranked
+
+Unranked will include:
+- A level progression system.
+- Win tracking, giving players a way to show off their results.
+
+The intended starting point is the BedWars1058 gameplay/plugin experience, with planned changes to how its level progression works. The exact revised level rules are not yet specified.
+
+## 6.4 Ranked
+
+Ranked is available only for:
+- Solo.
+- Duo.
+- Trio.
+
+Squad, 1v1, 2v2, 3v3, 4v4, and 100v100 are not planned to have Ranked queues.
+
+### Ranked seasons and matchmaking
+
+- A Ranked season lasts **2 months**.
+- Matchmaking is based on the players who are online and queueing for Ranked.
+- The initial matchmaking approach is intended to stay practical for a smaller player population rather than requiring a complicated system.
+
+### ELO gained from match placement
+
+The currently specified ELO rewards are:
+- **1st place / win:** +100 ELO.
+- **2nd place:** +50 ELO.
+- **3rd place:** +25 ELO.
+
+ELO loss for lower placements, ties, and other edge cases have not yet been specified.
+
+### Ranked ranks and ELO thresholds
+
+Rank divisions use consecutive ELO ranges: the next division begins at the previous division's maximum ELO + 1.
+
+| Rank | Division | Minimum ELO | Maximum ELO |
+|---|---:|---:|---:|
+| Wood | I | 100 | 124 |
+| Wood | II | 125 | 149 |
+| Wood | III | 150 | 174 |
+| Brick | I | 175 | 208 |
+| Brick | II | 209 | 241 |
+| Brick | III | 242 | 274 |
+| Copper | I | 275 | 308 |
+| Copper | II | 309 | 341 |
+| Copper | III | 342 | 374 |
+| Stone | I | 375 | 408 |
+| Stone | II | 409 | 441 |
+| Stone | III | 442 | 474 |
+| Coal | I | 475 | 508 |
+| Coal | II | 509 | 541 |
+| Coal | III | 542 | 574 |
+| Iron | I | 575 | 608 |
+| Iron | II | 609 | 641 |
+| Iron | III | 642 | 674 |
+| Gold | I | 675 | 708 |
+| Gold | II | 709 | 741 |
+| Gold | III | 742 | 774 |
+| Emerald | I | 775 | 806 |
+| Emerald | II | 807 | 837 |
+| Emerald | III | 838 | 868 |
+| Emerald | IV | 869 | 899 |
+| Diamond | I | 900 | 979 |
+| Diamond | II | 980 | 1,059 |
+| Diamond | III | 1,060 | 1,139 |
+| Diamond | IV | 1,140 | 1,219 |
+| Diamond | V | 1,220 | 1,299 |
+| Netherite | I | 1,300 | 1,328 |
+| Netherite | II | 1,329 | 1,357 |
+| Netherite | III | 1,358 | 1,386 |
+| Netherite | IV | 1,387 | 1,415 |
+| Netherite | V | 1,416 | 1,444 |
+| Netherite | VI | 1,445 | 1,472 |
+| Netherite | VII | 1,473 | 2,994 |
+| **G.O.A.T.** | **Final** | **2,995** | **No upper limit specified** |
+
+Netherite VII is intentionally a long final division before G.O.A.T. Players remain Netherite VII from 1,473 ELO up to 2,994 ELO. Reaching **2,995 ELO** grants the G.O.A.T. rank.
+
+Players can continue gaining ELO after reaching G.O.A.T. so that the leaderboard can distinguish the highest-rated players.
+
+### End-of-season reward
+
+At the end of each Ranked season, the player with the highest ELO on the leaderboard is intended to receive:
+- **5,000 lei** in the Survival economy.
+- The permanent **G.O.A.T. rank**, which is global across the entire network.
+
+The rank is not a Survival-only rank. It is a network-wide rank, consistent with the global rank system.
+
+## 6.5 BedWars Events
+
+Special BedWars events may offer different kinds of prizes depending on the event:
+- Real-life prizes.
+- Paysafecard prizes.
+- Survival rewards, such as money, ranks, or items.
+
+The exact event formats, schedules, and prize pools are not yet specified.
+
+## 6.6 Modern BedWars Beta
+
+A separate **Modern BedWars Beta** is also being considered.
+
+- The initial plan is to offer it in **Solo only**.
+- Its exact gameplay differences from standard BedWars have not yet been defined.
+
+---
+
+# 7. Relaunch and update approach
 
 The relaunch is intended to bring back the network **as it was before it closed on 31 August 2026**.
 
@@ -418,7 +566,7 @@ The intended approach is:
 
 ---
 
-# 7. Open decisions and items to finalize
+# 8. Open decisions and items to finalize
 
 The following details remain open and should not be treated as final rules:
 
