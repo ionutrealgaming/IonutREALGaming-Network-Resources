@@ -550,7 +550,75 @@ A separate **Modern BedWars Beta** is also being considered.
 
 ---
 
-# 7. Relaunch and update approach
+# 7. Advancements and Hall of Fame
+
+The network will have an additional advancement system alongside the normal Minecraft advancements. These IRG advancements do not replace vanilla advancements; both systems remain available.
+
+## 7.1 IRG and vanilla advancements
+
+IRG advancements are intended to recognize a wide range of player milestones and activities. Examples currently discussed include:
+
+- **Building:** building a house for the first time and building a mega base.
+- **Combat:** getting a first player kill.
+- **Equipment:** obtaining fully enchanted gear, with separate advancements for individual pieces of equipment.
+- **Classic Minecraft milestones:** bringing back familiar older achievement-style goals such as Taking Inventory, Getting Wood, and Diamonds to You!
+
+These are examples of the intended direction, not a finalized complete list. Normal vanilla advancements can also grant rewards.
+
+## 7.2 Advancement rewards and completion
+
+Each advancement can be completed only once by each player. Completing one grants:
+
+- Battle Pass XP.
+- Team Pass XP, if the player belongs to a team.
+- In-game money.
+- Sometimes additional items related to the advancement.
+
+Item rewards are advancement-specific. For example, a house-building advancement might reward glass, while a mega-base advancement might reward chests. These are examples only; the actual rewards are not final.
+
+## 7.3 Event-exclusive advancements
+
+Special advancements may be introduced for limited-time events.
+
+Event advancements count toward overall advancement completion and leaderboard progress while the relevant event is active and the advancement can be earned. Once an event has ended, an advancement that is no longer obtainable does not count against players who missed that event. Missing a past event must not make it impossible for a player to qualify for the overall completion reward or advancement leaderboard.
+
+## 7.4 Hall of Fame
+
+The Hall of Fame is an in-game room where players can:
+
+- View the advancements they have completed.
+- View advancements they have not yet completed.
+- Read how each advancement can be completed.
+- Check a leaderboard showing which players have completed the most advancements.
+
+The Hall of Fame is both a reference point for advancement requirements and a place to recognize players' progress.
+
+## 7.5 Completionist reward — The Collector
+
+The player who completes all advancements that currently count toward overall completion receives:
+
+- The permanent network-wide **The Collector** rank.
+- The **The Collector** title.
+
+The current name is a working name and may change. The rank is intended to display its letters in RGB colours.
+
+---
+
+# 8. Titles
+
+Titles are global across the entire network, just like ranks. Unlike ranks, titles are interchangeable: players can change their equipped title whenever they like, choosing from the titles they have unlocked.
+
+Some titles may provide benefits, while others may be purely for recognition.
+
+Examples:
+- Completing all currently eligible advancements grants the **The Collector** title.
+- The BedWars **G.O.A.T.** rank also grants the matching **G.O.A.T.** title.
+
+Titles and ranks are separate systems. A player's equipped title does not replace their rank.
+
+---
+
+# 9. Relaunch and update approach
 
 The relaunch is intended to bring back the network **as it was before it closed on 31 August 2026**.
 
@@ -566,7 +634,7 @@ The intended approach is:
 
 ---
 
-# 8. Open decisions and items to finalize
+# 10. Open decisions and items to finalize
 
 The following details remain open and should not be treated as final rules:
 
